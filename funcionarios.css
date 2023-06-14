@@ -1,0 +1,29 @@
+.cabeçalho {
+    background-color: hwb(0 15% 84% / 0.674);
+    color: white;
+    text-align: center;
+}
+
+.cabeçalho-nome {
+    font-size: 80px;
+}
+
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 60px;
+    padding: 0 60px;
+    font-size: larger;
+}
+.foto-turma {
+    width: 40%;
+    padding-left: 100px;
+
+}
+
+.Escola {
+    display: flex;
+}
+
+.escola-texto {
+    font-size: larger;
+}
